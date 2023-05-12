@@ -1,0 +1,11 @@
+{
+  "wcmContentTitle": "DXTest",
+  "scriptPortletServer": "http://127.0.0.1:10039",
+  "portalUser": "wpsadmin",
+  "wcmSiteArea": "Script Portlets",
+  "contenthandlerPath": "/wps/mycontenthandler",
+  "mainHtmlFile": "index.html",
+  "virtualPortalID": "tdp",
+  "wcmContentPath": "base22-design/Script Portlets/dx-test",
+  "datePushed": "2023-05-10T21:34:50.144Z"
+}
