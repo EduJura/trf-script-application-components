@@ -1,9 +1,10 @@
 (function() {
-  // data from Home - Carousel Data menu component
-  [Component name="base22-design/design-system/carousels/home-carousel-data" resultsPerPage="" startPage=""]
-  // component config from Home - Carousel Config
-  [Component name="base22-design/design-system/carousels/home-carousel-config"]
-  const dxHomeCarouselContainer = document.getElementById("dxHomeCarousel");
+  // component Carousel Data
+  [Element type="auto" context="autofill" key="data-collection"]
+  // component Carousel Config
+  [Element type="auto" context="autofill" key="json-config"]
+  
+  const dxHomeCarouselContainer = document.getElementById("[Property field="name" type="auto" context="autofill"]");
   const homeCarouselArgs = {
     "items": [...data.items]
   }
