@@ -1,9 +1,10 @@
 {
+  "wcmContentTitle": "DXCarousel",
   "contenthandlerPath": "/wps/mycontenthandler",
   "mainHtmlFile": "index.html",
   "portalUser": "wpsadmin",
-  "scriptPortletServer": "http://localhost:10039",
-  "wcmContentID": "496bcf2e-b039-4110-b996-06cc788585e1",
-  "wcmSiteArea": "Script Portlets",
-  "datePushed": "2023-05-11T18:37:56.015Z"
+  "virtualPortalID": "tdp",
+  "wcmSiteArea": "Design System Catalog",
+  "wcmContentPath": "design/Design System Catalog/dx-carousel",
+  "laxSSL": true
 }
