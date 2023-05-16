@@ -1,0 +1,10 @@
+{
+  "wcmContentTitle": "DXHomeButtomCatalog",
+  "portalUser": "wpsadmin",
+  "contenthandlerPath": "/wps/mycontenthandler",
+  "mainHtmlFile": "index.html",
+  "virtualPortalID": "tdp",
+  "wcmSiteArea": "Design System Catalog",
+  "wcmContentPath": "design/Design System Catalog/dx-home-button-catalog",
+  "laxSSL": true
+}
