@@ -1,0 +1,10 @@
+{
+  "wcmContentTitle": "DXHeader",
+  "portalUser": "wpsadmin",
+  "contenthandlerPath": "/wps/mycontenthandler",
+  "mainHtmlFile": "index.html",
+  "virtualPortalID": "tdp",
+  "wcmSiteArea": "Design System Header",
+  "wcmContentPath": "design/Design System Catalog/dx-header",
+  "laxSSL": true
+}
