@@ -1,3 +1,3 @@
 (function() {
-  console.log('TEST');
+  // Add here your custom javascript
 })();

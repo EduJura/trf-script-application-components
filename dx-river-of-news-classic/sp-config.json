@@ -1,11 +1,9 @@
 {
   "wcmContentTitle": "DXRiverOfNewsClassic",
-  "scriptPortletServer": "http://127.0.0.1:10039",
   "portalUser": "wpsadmin",
-  "wcmSiteArea": "Script Portlets",
-  "contenthandlerPath": "/wps/mycontenthandler",
   "mainHtmlFile": "index.html",
-  "datepushed": "2023-05-05T19:19:51.595Z",
   "virtualPortalID": "tdp",
-  "wcmContentPath": "design/Script Portlets/dx-river-of-news-classic"
+  "wcmSiteArea": "Design System Catalog",
+  "wcmContentPath": "design/Design System Catalog/dx-river-of-news-classic",
+  "laxSSL": true
 }
