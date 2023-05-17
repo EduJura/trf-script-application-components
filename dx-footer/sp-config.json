@@ -1,0 +1,9 @@
+{
+  "wcmContentTitle": "DXFooter",
+  "portalUser": "wpsadmin",
+  "contenthandlerPath": "/wps/mycontenthandler",
+  "mainHtmlFile": "index.html",
+  "wcmSiteArea": "Design System Header",
+  "wcmContentPath": "design/Design System Catalog/dx-footer",
+  "laxSSL": true
+}
