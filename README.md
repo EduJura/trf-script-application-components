@@ -1,6 +1,6 @@
-# Terraform Script Application Components
+# React Script Application Components
 
-Terraform Script Application Components is a components catalog, which implements the Terraform Design System components in an HCL portal instance.
+React Script Application Components is a components catalog, which implements the a React Design System components in an HCL portal instance.
 
 ## Getting Start
 
@@ -50,7 +50,7 @@ Each script application component has it's folder with 4 important files.
   "mainHtmlFile": "index.html",
   "datepushed": "2023-05-05T19:19:51.595Z",
   "virtualPortalID": "tdp",
-  "wcmContentPath": "base22-design/Script Portlets/dx-catalog",
+  "wcmContentPath": "design/Script Portlets/dx-catalog",
   "datePushed": "2023-05-09T20:54:30.166Z"
 }
 ```
